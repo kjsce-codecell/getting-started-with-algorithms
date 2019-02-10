@@ -17,9 +17,9 @@ Problems solved during the workshop
 
 - [Problem Link](https://www.codechef.com/problems/MINEAT)
 - Solutions-
-    - [Python](#)
-    - [JAVA](#)
-    - [C++](#)
+    - [Python](https://github.com/inishchith/getting-started-with-algorithms/tree/master/MINEAT/PYTHON)
+    - [JAVA](https://github.com/inishchith/getting-started-with-algorithms/tree/master/MINEAT/JAVA)
+    - [C++](https://github.com/inishchith/getting-started-with-algorithms/tree/master/MINEAT/CPP)
 </details>
 
 <details>
@@ -27,9 +27,9 @@ Problems solved during the workshop
 
 - [Problem Link](https://www.codechef.com/problems/TRICOIN)
 - Solutions-
-    - [Python](#)
-    - [JAVA](#)
-    - [C++](#)
+    - [Python](https://github.com/inishchith/getting-started-with-algorithms/tree/master/TRICOIN/PYTHON)
+    - [JAVA](https://github.com/inishchith/getting-started-with-algorithms/tree/master/TRICOIN/JAVA)
+    - [C++](https://github.com/inishchith/getting-started-with-algorithms/tree/master/TRICOIN/CPP)
 </details>
 
 <details>
@@ -37,9 +37,9 @@ Problems solved during the workshop
 
 - [Problem Link](https://www.codechef.com/problems/LEVY)
 - Solutions-
-    - [Python](#)
-    - [JAVA](#)
-    - [C++](#)
+    - [Python](https://github.com/inishchith/getting-started-with-algorithms/tree/master/LEVY/PYTHON)
+    - [JAVA](https://github.com/inishchith/getting-started-with-algorithms/tree/master/LEVY/JAVA)
+    - [C++](https://github.com/inishchith/getting-started-with-algorithms/tree/master/LEVY/CPP)
 </details>
 
 <details>
@@ -47,19 +47,19 @@ Problems solved during the workshop
 
 - [Problem Link](https://www.codechef.com/problems/SKIING)
 - Solutions-
-    - [Python](#)
-    - [JAVA](#)
-    - [C++](#)
+    - [Python](https://github.com/inishchith/getting-started-with-algorithms/tree/master/SKIING/PYTHON)
+    - [JAVA](https://github.com/inishchith/getting-started-with-algorithms/tree/master/SKIING/JAVA)
+    - [C++](https://github.com/inishchith/getting-started-with-algorithms/tree/master/SKIING/CPP)
 </details>
 
 <details>
-<summary>STRING MERGE | LCS</summary>
+<summary>STRMRG | LCS</summary>
 
 - [Problem Link](https://www.codechef.com/problems/STRMRG)
 - Solutions-
-    - [Python](#)
-    - [JAVA](#)
-    - [C++](#)
+    - [Python](https://github.com/inishchith/getting-started-with-algorithms/tree/master/STRMRG/PYTHON)
+    - [JAVA](https://github.com/inishchith/getting-started-with-algorithms/tree/master/STRMRG/JAVA)
+    - [C++](https://github.com/inishchith/getting-started-with-algorithms/tree/master/STRMRG/CPP)
 </details>
 
 <details>
@@ -67,7 +67,7 @@ Problems solved during the workshop
 
 - [Problem Link](https://www.codechef.com/problems/RLECNF)
 - Solutions-
-    - [Python](#)
-    - [JAVA](#)
-    - [C++](#)
+    - [Python](https://github.com/inishchith/getting-started-with-algorithms/tree/master/RLECNF/PYTHON)
+    - [JAVA](https://github.com/inishchith/getting-started-with-algorithms/tree/master/RLECNF/JAVA)
+    - [C++](https://github.com/inishchith/getting-started-with-algorithms/tree/master/RLECNF/CPP)
 </details>

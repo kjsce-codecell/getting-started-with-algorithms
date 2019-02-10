@@ -1,5 +1,5 @@
 import java.util.*;
-class mineat{
+class mineat_tushar{
     static int n,h,t;
     static int[] arr;
     public static void main(String args[]){

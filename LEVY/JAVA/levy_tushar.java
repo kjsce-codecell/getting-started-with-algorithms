@@ -46,6 +46,5 @@ class levy_tushar{
               al.add(i);
        }
          return al;
-            
        }
 }

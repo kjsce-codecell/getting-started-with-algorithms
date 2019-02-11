@@ -23,7 +23,7 @@ Problems solved during the workshop
 </details>
 
 <details>
-<summary>TRICOIN | Binary Search</summary>
+<summary>TRICOIN | Binary Search/Maths</summary>
 
 - [Problem Link](https://www.codechef.com/problems/TRICOIN)
 - Solutions-
